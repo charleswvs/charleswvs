@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Charles, I am a FullStack Web Developer, always looking for challenges
 
-- 🔭 I’m currently working at <a href="https://paypal.com">PayPal</a>.
+- 🔭 I’m currently working at Deel.
 - 🌱 I’m currently learning DDD, SOLID and scalability else on how to build great longterm projects
 - 🤔 I’m looking for help with Project Architecture
 - 📫 How to reach me:
