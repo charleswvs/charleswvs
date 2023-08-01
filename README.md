@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Charles, I am a FullStack Web Developer, always looking for challenges
 
 - 🔭 I’m currently working at Deel.
-- 🌱 I’m currently learning DDD, SOLID and scalability else on how to build great longterm projects
+- 🌱 I’m currently learning DDD, SOLID, scalability, and everything else on how to build great long-term projects
 - 🤔 I’m looking for help with Project Architecture
 - 📫 How to reach me:
   <p>
@@ -11,7 +11,7 @@
     <a href="https://www.instagram.com/charleswvs/">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/charles_wvs/">
+    <a href="https://www.twitter.com/charles_wvs/">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
     </a>&nbsp;&nbsp;
   </p>
